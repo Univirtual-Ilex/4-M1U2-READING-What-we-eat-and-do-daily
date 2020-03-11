@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import Container from '../Container'
-import ButtonX from '../ButtonX'
+import { ButtonLink } from "../ButtonX";
 import estilos_home from './Home_styles'
 
 
@@ -17,8 +17,7 @@ const Home_base = function ({...props}) { // se le pasan las props para recibir 
                             <p>
                             Tap on each picture to listen to the pronunciation of the food item. Later, darg and drop each word from the box below the food images. 
                             <span className='negrilla'> <br/> <br/> ¡Time to practice your reading skill!</span></p>
-                            <ButtonX>Start</ButtonX>
-                        </div>
+                            <ButtonLink to="/actividad1">Start</ButtonLink>                        </div>
                     </div>
                     <div className='bloque-derecho'>
                         <figure>

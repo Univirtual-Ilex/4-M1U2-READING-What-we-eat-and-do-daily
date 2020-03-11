@@ -9,7 +9,6 @@ button{
 img{
     width: 100%;
  
-    margin-top: 3em;
 }
 `
 export const buttonAudio2 = css`
