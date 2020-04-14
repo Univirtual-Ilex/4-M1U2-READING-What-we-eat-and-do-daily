@@ -11,7 +11,7 @@ const Home_base = function ({...props}) { // se le pasan las props para recibir 
     return (
         <Container {...props}  row bgImage="src/bg.png">
 
-                    <div className='bloque-izquierdo'>
+                    <div className='bloque-izquierdo entrada-top-Y-2'>
                         <div className='bloque-izquierdo-container'>
                             <h1> What we eat and do daily</h1>
                             <p>
@@ -19,7 +19,7 @@ const Home_base = function ({...props}) { // se le pasan las props para recibir 
                             <span className='negrilla'> <br/> <br/> ¡Time to practice your reading skill!</span></p>
                             <ButtonLink to="/actividad1">Start</ButtonLink>                        </div>
                     </div>
-                    <div className='bloque-derecho'>
+                    <div className='bloque-derecho entrada-top-Y-2'>
                         <figure>
                             <img src='./src/cover.png' alt='Logo' />    
                         </figure>
