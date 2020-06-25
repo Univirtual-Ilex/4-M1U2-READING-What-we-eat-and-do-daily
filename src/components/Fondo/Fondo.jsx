@@ -16,6 +16,7 @@ const Fondo = styled(Fondo_base)`
     height:100%;
     padding-top:5em;
     overflow-y:auto;
+    
 `
 
 
