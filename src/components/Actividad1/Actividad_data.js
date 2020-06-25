@@ -48,7 +48,7 @@ const data = [
       "right": 0,
       "answer": "area_20",
       "belongsTo": ['area_0', 'area_1', 'area_2', 'area_3', 'area_4', 'area_5', 'area_6', 'area_7', 'area_8', 'area_9', 'area_10', 'area_11', 'area_12', 'area_13', 'area_14', 'area_15', 'area_16', 'area_17', 'area_18', 'area_19', 'area_20', 'area_21', 'area_22', 'area_23', 'area_24'],
-      "food": "CHIKEN",
+      "food": "CHICKEN",
     },
     {
       "id": 8,

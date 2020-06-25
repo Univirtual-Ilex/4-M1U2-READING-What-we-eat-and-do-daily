@@ -16,7 +16,7 @@ const Home_base = function ({...props}) { // se le pasan las props para recibir 
                             <h1> What we eat and do daily</h1>
                             <p>
                             Tap on each picture to listen to the pronunciation of the food item. Later, darg and drop each word from the box below the food images. 
-                            <span className='negrilla'> <br/> <br/> ¡Time to practice your reading skill!</span></p>
+                            <span className='negrilla'> <br/> <br/> Time to practice your reading skill!</span></p>
                             <ButtonLink to="/actividad1">Start</ButtonLink>                        </div>
                     </div>
                     <div className='bloque-derecho entrada-top-Y-2'>

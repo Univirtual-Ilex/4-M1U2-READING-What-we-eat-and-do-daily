@@ -20,10 +20,9 @@ const Container_base = ({ h, w, bgImage, row,...props}) => { // se traen los pro
 
 const Container = styled(Container_base)`
 
-     display: flex;
+    display: flex;
     justify-content: center;
     align-items:center;
-    height:100%;
     overflow-y:auto;
 
     .viewport{

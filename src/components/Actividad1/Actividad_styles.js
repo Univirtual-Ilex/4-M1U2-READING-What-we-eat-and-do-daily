@@ -33,10 +33,11 @@ const mistyles = css`
 
 }
 .food{
-    margin-top:10em;
+    margin-top:0em;
     height: auto;
     display: flex;
     flex-wrap: wrap;
+    position:relative;
 }
 .box{
    width:100%;
