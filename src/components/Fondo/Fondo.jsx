@@ -14,6 +14,7 @@ const Fondo = styled(Fondo_base)`
     background: ${({degradado}) => degradado} ;
     width:100%;
     height:100%;
+    padding-top:5em;
     overflow-y:auto;
 `
 
